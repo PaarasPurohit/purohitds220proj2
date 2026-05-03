@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'Paaras Purohit DS220 Project II'
+title:            'DS220 Project II'
 tagline:          'Data Analysis with Pandas'
-description:      'Analyzing a Netflix dataset using Pandas and MatPlotLib for the second project in DS 220'
+description:      'by Paaras Purohit'
 baseurl:          /purohitds220proj2/
 
 author:
