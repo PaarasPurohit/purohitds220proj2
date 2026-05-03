@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Paaras Purohit DS220 Project II'
+tagline:          'Data Analysis with Pandas'
+description:      'Analyzing a Netflix dataset using Pandas and MatPlotLib for the second project in DS 220'
+baseurl:          /
+
+author:
+  name:           'Paaras Purohit'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/PaarasPurohit/purohitds220proj2
