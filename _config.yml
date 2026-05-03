@@ -9,7 +9,7 @@ permalink:        pretty
 title:            'Paaras Purohit DS220 Project II'
 tagline:          'Data Analysis with Pandas'
 description:      'Analyzing a Netflix dataset using Pandas and MatPlotLib for the second project in DS 220'
-baseurl:          /purohitds220proj2
+baseurl:          /purohitds220proj2/
 
 author:
   name:           'Paaras Purohit'
